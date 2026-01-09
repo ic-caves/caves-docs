@@ -3,7 +3,7 @@
 Welcome to the caves documentation! Caves is a knowledge management and collaboration platform where you create interconnected "caves" of information, explore them through multiple lenses, and build consensus through voting.
 
 **What you can do:**
-- Instantly create caves - just type any name and it exists (like hashtags or subreddits)
+- Instantly create caves - just type any name and it exists
 - Add any content (text, links, images, videos) to your caves
 - Vote to surface quality and build connections
 - Navigate two ways: Feed view (Reddit-style) or Network view (visual graphs)
@@ -14,13 +14,14 @@ Welcome to the caves documentation! Caves is a knowledge management and collabor
 
 **Multiple Perspectives (Shadows):** Create different identities to maintain separate viewpoints on the same information - professional vs personal, skeptical vs optimistic, or any lens you choose.
 
-**Human-Curated, User-Controlled:** Vote to curate content through consensus (not corporate algorithms). Create perspectives to shape what you see - the algorithm learns from YOUR perspectives. Activity maps and recommendations are tailored to the perspectives you create. Both human curation AND algorithmic personalization, but you're in control.
+**Human-Curated, User-Controlled:** Vote to curate content through consensus. Create perspectives to shape what you see - the algorithm learns from your perspectives. Activity maps and recommendations are tailored to the perspectives you create. Both human curation AND algorithmic personalization, but you're in control.
 
 **Open Format, Truly Portable:** Unlike proprietary exports, caves uses `.ic` - a human-readable, machine-parseable format designed for sharing thoughts. You can read your data as plain text, host it anywhere online, and import `.ic` files from across the internet into caves. It's interoperable, not just exportable.
 
 **Dual Navigation Modes:** Browse caves like Reddit (feed view with consensus sorting, filtering by type/perspective) OR explore visually through force-directed network graphs. Each serves a different purpose - feed for focused reading, network for discovery.
 
 **Fire Economy - Scarce Voting:** Every vote costs 1 fire, making votes meaningful instead of infinite. Each day you're topped up to 100 fire if you've fallen below, and you earn more when others agree with your connections. This scarcity prevents spam, encourages thoughtful curation, and creates a sustainable economy where quality content earns you more voting power.
+
 ---
 
 ## Documentation for Different Audiences
@@ -44,7 +45,7 @@ Dive deeper into caves:
 **Knowledge Organization:**
 - Instantly create caves - any string becomes a topic (cheap to create by design)
 - Add text, links, images, videos, and files
-- Transcribe images, audio, video, and YouTube links to make content available to everyone
+- *Transcribe* images, audio, video, and YouTube links to make content available to everyone
 - Vote to curate content and build connections
 - Automatic embedding of YouTube, Twitter, TikTok, Spotify, and more
 
