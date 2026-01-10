@@ -2,7 +2,7 @@
 title: Caves & Connections
 audience: users
 last_updated: 2026-01-09
-related: [perspectives-shadows.md, ../features/exploration/network-explorer.md, ../getting-started/what-is-caves.md]
+related: [perspectives-shadows.md, ../features/exploration/cave-map.md, ../getting-started/what-is-caves.md]
 ---
 
 # Caves & Connections
@@ -31,7 +31,7 @@ Think of it as:
 - **Connected:** Linked to other caves through parent-child relationships
 - **Collaborative:** Multiple users (perspectives) can contribute
 - **Vote-curated:** Quality emerges through voting
-- **Visualizable:** Appears as a node in the Network Explorer graph
+- **Visualizable:** Appears as a node in the Cave Map graph
 
 ---
 
@@ -253,7 +253,7 @@ Caves contain different types of items:
 
 ### How the Graph Forms
 
-**The Network Explorer visualizes your cave connections:**
+**The Cave Map visualizes your cave connections:**
 
 **Nodes (Circles):**
 - Each node = one cave
@@ -334,7 +334,7 @@ Caves contain different types of items:
 - High activity = recent votes or contributions
 - Discover what others are exploring
 
-**Network Explorer:**
+**Cave Map:**
 - Click nodes to jump between connected caves
 - Follow edges to related topics
 - Discover caves through relationships
@@ -368,7 +368,7 @@ Caves contain different types of items:
 **View in:**
 - Cave header (when inside cave)
 - Cave listings (homepage, search results)
-- Network Explorer (node hover)
+- Cave Map (node hover)
 
 ### Activity Maps
 
@@ -447,7 +447,7 @@ Caves contain different types of items:
 - See caves through different lenses
 
 ### 5. Explore the Network
-- Use Network Explorer regularly
+- Use Cave Map regularly
 - Discover unexpected connections
 - Understand your knowledge structure
 
@@ -478,6 +478,6 @@ A: No - vote when you have an opinion. Abstaining (not voting) is valid.
 ## See Also
 
 - **[Perspectives & Shadows](perspectives-shadows.md)** - How multiple perspectives vote differently
-- **[Network Explorer](../features/exploration/network-explorer.md)** - Visualize cave connections
+- **[Cave Map](../features/exploration/cave-map.md)** - Visualize cave connections
 - **[Adding Content](../features/content-management/adding-content.md)** - How to add items and create connections
 - **[Voting & Curation](voting-curation.md)** - Deep dive into the voting system

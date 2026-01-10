@@ -36,7 +36,7 @@ Start here to get up and running quickly:
 Dive deeper into caves:
 - **[Caves & Connections](core-concepts/caves-and-connections.md)** - How relationships work
 - **[Perspectives & Shadows](core-concepts/perspectives-shadows.md)** - Master multiple viewpoints
-- **[Network Explorer](features/exploration/network-explorer.md)** - Navigate visually through cave networks
+- **[Cave Map](features/exploration/cave-map.md)** - Navigate visually through cave networks
 - **[Adding Content](features/content-management/adding-content.md)** - All the ways to add information
 
 ---
@@ -52,7 +52,7 @@ Dive deeper into caves:
 
 **Dual Navigation:**
 - **Feed View:** Browse like Reddit with consensus sorting and filtering
-- **Network Explorer:** Interactive force-directed graphs reveal relationships
+- **Cave Map:** Interactive force-directed graphs reveal relationships
 
 **Collaboration:**
 - Multiple perspectives (shadows) per user - maintain different viewpoints
