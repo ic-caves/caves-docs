@@ -15,7 +15,7 @@ related: [../core-concepts/caves-and-connections.md, ../core-concepts/perspectiv
 
 ## The Problem
 
-Information is everywhere, but it's scattered across bookmarks, notes, screenshots, tweets, articles, and conversations. Traditional tools force you into rigid hierarchies (folders) or flat lists (documents). Finding connections between ideas is manual work, and collaborating means sharing entire workspaces or nothing at all.
+Information is everywhere, but it's scattered across bookmarks, notes, screenshots, tweets, articles, and conversations. Traditional tools force you into rigid hierarchies (folders), flat lists (documents), or unwieldy proprietary file formats. Finding connections between ideas is manual work, and collaborating means sharing entire workspaces or nothing at all.
 
 ## The Caves Solution
 
