@@ -30,6 +30,7 @@ Welcome to the caves documentation! Caves is a knowledge management and collabor
 Start here to get up and running quickly:
 - **[What is Caves?](getting-started/what-is-caves.md)** - Understand the core concepts and get started
 - **[The IC and Caves Vision](getting-started/ic-caves-vision.md)** - Why IC exists and how Caves fits in
+- **[IC in Practice](getting-started/ic-in-practice.md)** - Concrete examples of IC's power
 - **[Glossary](reference/glossary.md)** - Essential terminology
 
 ### 🎯 For Active Users
