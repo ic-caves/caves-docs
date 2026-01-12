@@ -2,7 +2,7 @@
 title: Perspectives & Shadows
 audience: users
 last_updated: 2026-01-09
-related: [../getting-started/what-is-caves.md, caves-and-connections.md, ../features/exploration/network-explorer.md]
+related: [../getting-started/what-is-caves.md, caves-and-connections.md, ../features/exploration/cave-map.md]
 ---
 
 # Perspectives & Shadows
@@ -47,7 +47,7 @@ Instead of mixing everything together or maintaining separate accounts, **caves 
 - **Professional shadow:** Academic papers, industry reports, technical specs
 - **Personal shadow:** Blog posts, YouTube tutorials, weekend project ideas
 
-**Benefit:** Keep work and personal interests separate but see where they overlap in the Network Explorer.
+**Benefit:** Keep work and personal interests separate but see where they overlap in the Cave Map.
 
 ### 2. Different Roles
 
@@ -166,7 +166,7 @@ Instead of mixing everything together or maintaining separate accounts, **caves 
 - All your votes now come from the new shadow
 - All content you add is attributed to the new shadow
 - Your avatar changes to the new shadow's avatar
-- Network Explorer highlights shift to the new shadow's connections
+- Cave Map highlights shift to the new shadow's connections
 
 **Pro tip:** Switch shadows before voting to maintain perspective separation.
 
@@ -198,13 +198,13 @@ Instead of mixing everything together or maintaining separate accounts, **caves 
 
 ---
 
-## Perspectives in the Network Explorer
+## Perspectives in the Cave Map
 
-**The Network Explorer becomes far more powerful with multiple perspectives.**
+**The Cave Map becomes far more powerful with multiple perspectives.**
 
 ### Visualizing Different Viewpoints
 
-When you switch perspectives in the Network Explorer:
+When you switch perspectives in the Cave Map:
 
 **Node highlighting changes:**
 - Nodes with the current perspective's contributions are highlighted
@@ -224,7 +224,7 @@ When you switch perspectives in the Network Explorer:
 ### Filtering the Graph
 
 **Filter the entire network by perspective:**
-1. Open Network Explorer
+1. Open Cave Map
 2. Select perspective filter
 3. Graph updates to show only that perspective's connections
 
@@ -353,5 +353,5 @@ Don't be afraid to vote differently on the same item with different shadows - th
 ## Next Steps
 
 - **[Caves & Connections](caves-and-connections.md)** - How perspectives affect network structure
-- **[Network Explorer](../features/exploration/network-explorer.md)** - Visualize perspective-based connections
+- **[Cave Map](../features/exploration/cave-map.md)** - Visualize perspective-based connections
 - **[BERF Benefits](../subscription/berf-benefits.md)** - Unlock unlimited shadows

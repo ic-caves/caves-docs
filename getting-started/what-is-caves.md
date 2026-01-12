@@ -62,7 +62,7 @@ These votes serve two critical purposes:
 
 **B. Build Network Structure for Visual Exploration**
 - Votes form a network graph you can explore visually
-- Network Explorer shows caves as nodes with connections as edges
+- Cave Map shows caves as nodes with connections as edges
 - Click nodes to jump between caves, discover clusters and bridges
 
 **Two views, one voting system.** Use feed view for focused consumption, network view for discovery.
@@ -93,7 +93,7 @@ Each perspective has its own vote history, cave contributions, and view of the n
 - **Filter by perspective:** See only specific shadow's contributions
 - Best for: Focused reading, catching up on activity, consuming curated content
 
-**Network Explorer:**
+**Cave Map:**
 - Interactive force-directed graph visualization
 - Caves as nodes, connections as edges
 - Click nodes to jump between caves
@@ -168,7 +168,7 @@ This means if caves disappeared tomorrow, your knowledge isn't trapped in some p
 
 🔗 **Connection:** A relationship between caves created by voting
 
-📊 **Network Explorer:** Visual graph showing how caves connect
+📊 **Cave Map:** Visual graph showing how caves connect
 
 ✅ **Voting:** How you curate content and create connections
 
@@ -256,5 +256,5 @@ Dive deeper into caves:
 - **[Glossary](../reference/glossary.md)** - Essential terminology and concepts
 - **[Caves & Connections](../core-concepts/caves-and-connections.md)** - How relationships work
 - **[Perspectives & Shadows](../core-concepts/perspectives-shadows.md)** - Deep dive into the multi-perspective system
-- **[Network Explorer](../features/exploration/network-explorer.md)** - Master visual navigation
+- **[Cave Map](../features/exploration/cave-map.md)** - Master visual navigation
 - **[Adding Content](../features/content-management/adding-content.md)** - All the ways to add content

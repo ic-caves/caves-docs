@@ -1,11 +1,11 @@
 ---
-title: Network Explorer
+title: Cave Map
 audience: users
 last_updated: 2026-01-09
 related: [../../core-concepts/caves-and-connections.md, ../../core-concepts/perspectives-shadows.md, ../../getting-started/what-is-caves.md]
 ---
 
-# Network Explorer
+# Cave Map
 
 **Purpose:** Master caves' signature feature - visual network navigation through interactive force-directed graphs.
 
@@ -13,9 +13,9 @@ related: [../../core-concepts/caves-and-connections.md, ../../core-concepts/pers
 
 ---
 
-## What is the Network Explorer?
+## What is the Cave Map?
 
-**The Network Explorer is an interactive graph visualization that shows your caves as nodes and connections as edges.** Instead of navigating through lists or folders, you click through a living map of your knowledge.
+**The Cave Map is an interactive graph visualization that shows your caves as nodes and connections as edges.** Instead of navigating through lists or folders, you click through a living map of your knowledge.
 
 **This is caves' most distinctive and powerful feature.**
 
@@ -26,11 +26,11 @@ related: [../../core-concepts/caves-and-connections.md, ../../core-concepts/pers
 - **Makes navigation intuitive** - click nodes to jump between caves
 - **Highlights perspective contributions** through avatar stacks
 
-The Network Explorer transforms static information into a dynamic, explorable space.
+The Cave Map transforms static information into a dynamic, explorable space.
 
 ---
 
-## Accessing the Network Explorer
+## Accessing the Cave Map
 
 **Multiple entry points:**
 
@@ -158,7 +158,7 @@ machine learning → neural networks → transformers → attention mechanism
 - Reviewing your exploration path
 - Understanding how you discovered something
 
-**Location:** Usually displayed in a panel near or within the Network Explorer
+**Location:** Usually displayed in a panel near or within the Cave Map
 
 ---
 
@@ -318,11 +318,11 @@ machine learning → neural networks → transformers → attention mechanism
 
 ---
 
-## Network Explorer Best Practices
+## Cave Map Best Practices
 
 ### 1. Use it Regularly
 
-**The Network Explorer reveals patterns that emerge over time.**
+**The Cave Map reveals patterns that emerge over time.**
 - Check weekly to see how your graph evolved
 - Look for unexpected clusters
 - Identify areas needing more connections
@@ -419,7 +419,7 @@ machine learning → neural networks → transformers → attention mechanism
 
 ## Common Questions
 
-**Q: Does the Network Explorer show ALL my caves?**
+**Q: Does the Cave Map show ALL my caves?**
 A: It shows caves connected to the current focal node, plus nearby connections. Very distant or unconnected caves may not appear.
 
 **Q: Can I manually arrange nodes?**
@@ -439,9 +439,9 @@ A: Large graphs may be too complex to display fully. The explorer focuses on loc
 
 ---
 
-## Why the Network Explorer Matters
+## Why the Cave Map Matters
 
-**Traditional navigation** (folders, lists, search) assumes you know what you're looking for. **The Network Explorer enables discovery** - you find things by following relationships, not by searching for keywords.
+**Traditional navigation** (folders, lists, search) assumes you know what you're looking for. **The Cave Map enables discovery** - you find things by following relationships, not by searching for keywords.
 
 **Key insights enabled by visual exploration:**
 

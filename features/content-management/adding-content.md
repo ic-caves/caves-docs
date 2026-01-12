@@ -222,7 +222,7 @@ When you add an item to a cave, you're saying:
 
 **Voting creates connections:**
 - Your vote links the item to the cave in the network graph
-- These connections are what power the Network Explorer
+- These connections are what power the Cave Map
 - Vote-based curation emerges naturally
 
 **Fire cost:**
@@ -342,6 +342,6 @@ A: Yes - adding content includes an implicit Yes vote, which costs 1 fire. You m
 ## See Also
 
 - **[Caves & Connections](../../core-concepts/caves-and-connections.md)** - How content creates network structure
-- **[Network Explorer](../exploration/network-explorer.md)** - Visualize your content connections
+- **[Cave Map](../exploration/cave-map.md)** - Visualize your content connections
 - **[Media Support](media-support.md)** - Deep dive into embeds and transcription
 - **[Organizing Caves](organizing-caves.md)** - Best practices for structure

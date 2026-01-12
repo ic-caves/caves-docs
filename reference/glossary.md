@@ -27,7 +27,7 @@ One of your multiple identities or viewpoints in caves. Each shadow has its own 
 **Examples:** "Professional," "Personal," "Skeptical," "Learner"
 
 ### Connection / Relationship
-A link between two caves created through voting. When you vote Yes or No on content, you're creating connections in the network graph. These connections are what make the Network Explorer visualization possible.
+A link between two caves created through voting. When you vote Yes or No on content, you're creating connections in the network graph. These connections are what make the Cave Map visualization possible.
 
 **Types:**
 - **Parent-child:** Hierarchical relationships
@@ -55,7 +55,7 @@ Linear, Reddit-style browsing of cave items with sorting, filtering, and voting.
 
 **Best for:** "What's the best content?" "What's new?" "Catch me up."
 
-### Network Explorer
+### Cave Map
 Interactive force-directed graph visualization showing caves as nodes and connections as edges. Visual navigation for discovery and exploration.
 
 **Access:** Graph icon in cave interface or "Explorer" in navigation
@@ -80,9 +80,9 @@ Real-time messaging view within a cave. Switch from feed to chat using the filte
 **Access:** Click "Chat" tab in the filter bar
 
 ### Node Log
-Breadcrumb trail in the Network Explorer showing your exploration path. See where you've been and jump back to previous nodes.
+Breadcrumb trail in the Cave Map showing your exploration path. See where you've been and jump back to previous nodes.
 
-**Location:** Within Network Explorer panel
+**Location:** Within Cave Map panel
 
 ---
 
@@ -152,7 +152,7 @@ Real-time collaboration infrastructure powering caves' chat and live updates. En
 **User impact:** You don't need to refresh - changes appear in real-time
 
 ### Avatar Stack
-Visual display showing contributors to a cave or connection. Appears in Network Explorer and system views. Click to see who's been active in specific caves.
+Visual display showing contributors to a cave or connection. Appears in Cave Map and system views. Click to see who's been active in specific caves.
 
 ### Contributor / pId Filtering
 Filter caves to see only contributions from specific perspectives. Useful for understanding individual viewpoints or tracking who added what.
@@ -160,7 +160,7 @@ Filter caves to see only contributions from specific perspectives. Useful for un
 **Access:** Filter options in cave views
 
 ### Common Connections / Intersection
-Highlighting in Network Explorer showing caves that connect to multiple selected nodes. Helps identify bridge concepts and shared relationships.
+Highlighting in Cave Map showing caves that connect to multiple selected nodes. Helps identify bridge concepts and shared relationships.
 
 **Visual:** Usually highlighted with special colors or emphasis
 
@@ -310,7 +310,7 @@ Quality emerges through community voting, not centralized authority. Votes surfa
 Same data, multiple lenses. Your viewpoint doesn't dictate others'. Filter by perspective to see how different users (or different versions of you) see the same information.
 
 ### Visual-first Navigation
-Graphs reveal patterns lists hide. The Network Explorer makes relationships visible and navigable.
+Graphs reveal patterns lists hide. The Cave Map makes relationships visible and navigable.
 
 ### Interoperability & Open Format
 Unlike proprietary exports, caves uses `.ic` - a human-readable, machine-parseable format designed for sharing online. You can read your data as plain text, host it anywhere on the internet (IPFS, GitHub, personal servers), and import `.ic` files from anywhere on the web. Build knowledge graphs that transcend platform silos.
@@ -333,7 +333,7 @@ Most platforms let you export data in proprietary formats you can't actually use
 | **Cave** | Topic/container for content | Organizing unit |
 | **Shadow** | Your perspective/identity | Multiple viewpoints |
 | **Feed View** | Reddit-style browsing | Consensus-sorted content |
-| **Network Explorer** | Graph visualization | Visual navigation |
+| **Cave Map** | Graph visualization | Visual navigation |
 | **Voting** | Vote on content | Curates quality + builds graph |
 | **Fire** | Reputation/currency | Contribution tracking |
 | **Connection** | Vote-based relationship | Network structure |
@@ -350,4 +350,4 @@ Most platforms let you export data in proprietary formats you can't actually use
 - **[What is Caves?](../getting-started/what-is-caves.md)** - Core concepts explained
 - **[Caves & Connections](../core-concepts/caves-and-connections.md)** - Deep dive into relationships
 - **[Perspectives & Shadows](../core-concepts/perspectives-shadows.md)** - Multiple viewpoints system
-- **[Network Explorer](../features/exploration/network-explorer.md)** - Visual navigation guide
+- **[Cave Map](../features/exploration/cave-map.md)** - Visual navigation guide
