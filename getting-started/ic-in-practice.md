@@ -18,7 +18,7 @@ Take a divisive subject like Trump. Different people see completely different th
 
 Same person, wildly different readings. He's a Rorschach.
 
-IC maps these perspectives. Not content about Trump. Not articles. The interpretations themselves. How many people connect Trump to fascist? How many to MAGA? How many to greatest president? The shape of collective thought on a subject.
+IC maps these perspectives. The interpretations themselves. How many people connect Trump to fascist? How many to MAGA? How many to greatest president? The shape of collective thought on a subject.
 
 ## One Use: Opinion Leaders
 
@@ -26,19 +26,17 @@ Here's one way people might use IC.
 
 Influencers, journalists, public figures already have platforms. IC gives them a way to publish their *positions*—not blog posts, just structured takes. Stripped down. "Here's where I stand on things."
 
-The more stripped down, the more general, the more connectable. Someone could be *known* for their IC file—a public graph of positions.
+The more stripped down, the more general, the more connectable. The more specific, the more niche. Someone could be *known* for their IC file—a public graph of positions.
 
-This makes sense. It fits how we already think about the internet: individuals broadcasting their views.
-
-But that's not the true power of IC.
+This way of using .ic fits how we already think about the internet: individuals broadcasting their views.  But that's not the true power of IC.
 
 ## The Real Power: Collective Intelligence
 
-IC isn't really about self-expression. It's about aggregation.
+IC isn't really about self-expression. It's also about aggregation.
 
 The point of the Trump example isn't any one person's take. It's the *pattern* of perspectives across many people. The shape of how a subject is understood—collectively.
 
-Here's a simpler example: New Year's resolutions.
+For example: New Year's resolutions.
 
 You create a connection:
 
