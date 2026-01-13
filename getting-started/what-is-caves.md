@@ -104,31 +104,6 @@ Each perspective has its own vote history, cave contributions, and view of the n
 
 ---
 
-## How the Community Describes Caves
-
-From the "caves is" cave (voted by users):
-
-**Most popular definitions:**
-- "an experiment in working together" (6 votes)
-- "a lurker's safe space" (5 votes)
-- "the human index" (4 votes)
-- "a knowledge game" (4 votes)
-- "the infinite switchboard" (4 votes)
-
-**Creative metaphors:**
-- "reddit with benefits"
-- "collective mind mapping"
-- "where tweets pool"
-- "a consensus engine"
-- "brain storage" / "lore store"
-- "the internet of thoughts"
-- "a giant shared outline"
-- "the first democratic social media"
-
-These community-curated descriptions capture something technical docs can't: caves is a social experiment, a game, a collective intelligence tool, and a new way of being online.
-
----
-
 ## Your Data is Portable
 
 **Unlike most platforms, your caves aren't locked in - and the format is designed for the open web.**
@@ -145,21 +120,6 @@ This means if caves disappeared tomorrow, your knowledge isn't trapped in some p
 
 ---
 
-## How Caves is Different
-
-| Traditional Tools | Caves |
-|---|---|
-| Locked in platform | Export anywhere, no lock-in |
-| Folder hierarchies | Dual navigation: Feed + Network graphs |
-| Single user view | Multiple perspectives per user |
-| Static organization | Vote-based curation with consensus |
-| Isolated content | Interconnected caves |
-| Manual linking | Vote-to-connect |
-| Corporate algorithms | Human-curated + user-controlled algorithms |
-
-
----
-
 ## Core Metaphors to Remember
 
 🏔️ **Cave:** A container for related content (like a topic or concept). Literally just any string of text.
@@ -170,29 +130,9 @@ This means if caves disappeared tomorrow, your knowledge isn't trapped in some p
 
 📊 **Cave Map:** Visual graph showing how caves connect
 
-✅ **Voting:** How you curate content and create connections
-
 🔥 **Fire:** Scarce currency that makes voting valuable. Every vote costs 1 fire. Earn more through consensus when others agree with your connections. Prevents spam and rewards quality curation.
 
----
-
-## The Caves Philosophy
-
-**Non-hierarchical:** Everything can connect to everything. No forced folder structure.
-
-**Vote-based curation:** Quality emerges through voting, not authority.
-
-**Perspective-aware:** Same data, multiple lenses. Your view doesn't dictate mine.
-
-**User-controlled algorithms:** Algorithms learn from YOUR perspectives, not corporate interests. You control what the algorithm sees by controlling which perspectives you create and use.
-
-**Visual-first:** Graphs reveal patterns that lists hide.
-
-**Collaborative:** Build knowledge together, but maintain individual viewpoints.
-
-**Web3-enabled:** IPFS storage, decentralized ownership.
-
----
+___
 
 ## Technical Deep Dive: The .ic Format
 

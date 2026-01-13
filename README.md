@@ -1,14 +1,9 @@
 # Caves Documentation
 
-Welcome to the caves documentation! Caves is a knowledge management and collaboration platform where you create interconnected "caves" of information, explore them through multiple lenses, and build consensus through voting.
+Welcome. Caves is a tool for collective knowledge building at scale.
 
-**What you can do:**
-- Instantly create caves - just type any name and it exists
-- Add any content (text, links, images, videos) to your caves
-- Vote to surface quality and build connections
-- Navigate two ways: Feed view (Reddit-style) or Network view (visual graphs)
-- Use multiple perspectives (shadows) to maintain different viewpoints
-- Collaborate in real-time through chat and voting
+Caves is...an experiment in working together, the human index, a collective intelligence tool, the internet of thoughts, an MMO knowledge game, the infinite switchboard, the first democratic social media, a new way of being online... 
+
 
 ## What Makes Caves Unique?
 
@@ -16,11 +11,11 @@ Welcome to the caves documentation! Caves is a knowledge management and collabor
 
 **Human-Curated, User-Controlled:** Vote to curate content through consensus. Create perspectives to shape what you see - the algorithm learns from your perspectives. Activity maps and recommendations are tailored to the perspectives you create. Both human curation AND algorithmic personalization, but you're in control.
 
-**Open Format, Truly Portable:** Unlike proprietary exports, caves uses `.ic` - a human-readable, machine-parseable format designed for sharing thoughts. You can read your data as plain text, host it anywhere online, and import `.ic` files from across the internet into caves. It's interoperable, not just exportable.
+**Open Format, Truly Portable:** Unlike proprietary exports, caves uses the `.ic` text file type - a human-readable, machine-parseable format designed for sharing thoughts. You can read your data as plain text, host it anywhere online, and import `.ic` files from across the internet into caves. It's interoperable, not just exportable.
 
 **Dual Navigation Modes:** Browse caves like Reddit (feed view with consensus sorting, filtering by type/perspective) OR explore visually through force-directed network graphs. Each serves a different purpose - feed for focused reading, network for discovery.
 
-**Fire Economy - Scarce Voting:** Every vote costs 1 fire, making votes meaningful instead of infinite. Each day you're topped up to 100 fire if you've fallen below, and you earn more when others agree with your connections. This scarcity prevents spam, encourages thoughtful curation, and creates a sustainable economy where quality content earns you more voting power.
+**Fire Economy - Scarce Voting:** An experimental, community driven, non-blockchain currency making votes meaningful instead of infinite. Earn fire as you create connection across topics when others agree with your connections. This scarcity prevents spam, encourages thoughtful curation, and creates a sustainable economy where quality content earns you more voting power.
 
 ---
 

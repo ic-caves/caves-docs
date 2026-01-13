@@ -28,7 +28,21 @@ Influencers, journalists, public figures already have platforms. IC gives them a
 
 The more stripped down, the more general, the more connectable. The more specific, the more niche. Someone could be *known* for their IC file—a public graph of positions.
 
-This way of using .ic fits how we already think about the internet: individuals broadcasting their views.  But that's not the true power of IC.
+This way of using .ic fits how we already think about the internet: individuals broadcasting their views.  
+
+## Identity is Optional
+
+But IC doesn’t require identity.
+
+Current platforms make anonymity nearly impossible. Everything ties back to an account, an email, a profile. Even “anonymous” accounts accumulate identity over time.
+
+IC flips this. Your contributions can be just connections. No name attached. The pattern of your thoughts is useful without anyone knowing who you are.
+
+Your idiosyncratic knowledge *is* enough identity. You know specific things because of your specific combination of interests and experiences, because of the specific words you use. Nobody else has exactly that pattern. And that pattern can be useful to others—without requiring a name.
+
+Anonymity and usefulness, together. That’s hard to achieve anywhere else right now.
+
+But that’s still not the true power of IC.
 
 ## The Real Power: Collective Intelligence
 
@@ -50,15 +64,19 @@ Not "here's my unique take" but "here's a shared vocabulary of thoughts that we 
 
 ## Cross-Domain Lenses
 
-Here's where it gets interesting.
+Here’s where it gets interesting.
 
 The connections you make in one area become a lens for exploring completely different areas.
 
-**Query:** "People who think like me on Trump—what are their New Year's resolutions?"
+**Queries:**
 
-You can't make that query anywhere right now. Political views and personal goals don't live in the same system. Algorithms are domain-specific: you liked this movie, here's another movie.
+- “People who think like me on Trump—what are their New Year’s resolutions?”
+- “Dancing with the Stars fans—what do they think about Trump?”
+- “Dancing with the Stars fans who vacation in Orlando—what do they think about Trump?”
 
-IC breaks that. Because it's all just connections, the similarity you establish in one place (politics) can filter what you see in another (resolutions, articles, hobbies, whatever).
+You can’t make these queries anywhere right now. Political views, TV preferences, vacation habits, personal goals—they don’t live in the same system. Algorithms are domain-specific: you liked this movie, here’s another movie.
+
+IC breaks that. Because it’s all just connections, the similarity you establish in one place can filter what you see in another. You’re slicing by *perspective* rather than by *person*. The individual disappears. The pattern remains.
 
 Lenses work across everything. Not strictly politics. Not strictly anything. Arbitrary cross-domain exploration based on shared perspective.
 
