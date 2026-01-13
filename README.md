@@ -1,17 +1,19 @@
 # Caves Documentation
 
-Welcome. Caves is a tool for collective knowledge building at scale.
+Welcome. [Caves](https://itscaves.com) is a tool for collective knowledge building at scale.
 
-Caves is...an experiment in working together, the human index, a collective intelligence tool, the internet of thoughts, an MMO knowledge game, the infinite switchboard, the first democratic social media, a new way of being online... 
+[Caves is](https://itscaves.com/c/caves%20is)...an experiment in working together, the human index, a collective intelligence tool, the internet of thoughts, an MMO knowledge game, the infinite switchboard, the first democratic social media, a new way of being online... 
 
 
 ## What Makes Caves Unique?
 
-**Multiple Perspectives (Shadows):** Create different identities to maintain separate viewpoints on the same information - professional vs personal, skeptical vs optimistic, or any lens you choose.
-
-**Human-Curated, User-Controlled:** Vote to curate content through consensus. Create perspectives to shape what you see - the algorithm learns from your perspectives. Activity maps and recommendations are tailored to the perspectives you create. Both human curation AND algorithmic personalization, but you're in control.
+**Instant Creation:** A cave is just a string of text. That's it. No setup, no moderation tools, no waiting for approval. Type a thought, it's a cave. This makes collaboration frictionless—anyone can spin up a space around any idea instantly.  You could think of it as a stripped down subreddit that takes seconds to create.
 
 **Open Format, Truly Portable:** Unlike proprietary exports, caves uses the `.ic` text file type - a human-readable, machine-parseable format designed for sharing thoughts. You can read your data as plain text, host it anywhere online, and import `.ic` files from across the internet into caves. It's interoperable, not just exportable.
+
+**Multiple Perspectives (Shadows):** Create different identities to maintain separate viewpoints on the same information - professional vs personal, skeptical vs optimistic, or any lens you choose.
+
+**Human-Curated, User-Controlled:** Curate content by persepctives. Create perspectives to shape what you see. Use our algorithm to find similar perespectives or filter content manually. Both human curation AND algorithmic personalization, but you're in control.
 
 **Dual Navigation Modes:** Browse caves like Reddit (feed view with consensus sorting, filtering by type/perspective) OR explore visually through force-directed network graphs. Each serves a different purpose - feed for focused reading, network for discovery.
 
