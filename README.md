@@ -2,7 +2,7 @@
 
 Welcome. [Caves](https://itscaves.com) is a tool for collective knowledge building at scale.
 
-[Caves is](https://itscaves.com/c/caves%20is)...an experiment in working together, the human index, a collective intelligence tool, the internet of thoughts, an MMO knowledge game, the infinite switchboard, the first democratic social media, a new way of being online... 
+[Caves is](https://itscaves.com/c/caves%20is)... a collective intelligence tool, an experiment in working together, the human index, an MMO knowledge game, the infinite switchboard, a new way of being online... 
 
 
 ## What Makes Caves Unique?
@@ -13,11 +13,11 @@ Welcome. [Caves](https://itscaves.com) is a tool for collective knowledge buildi
 
 **Multiple Perspectives (Shadows):** Create different identities to maintain separate viewpoints on the same information - professional vs personal, skeptical vs optimistic, or any lens you choose.
 
-**Human-Curated, User-Controlled:** Curate content by persepctives. Create perspectives to shape what you see. Use our algorithm to find similar perespectives or filter content manually. Both human curation AND algorithmic personalization, but you're in control.
+**Human-Curated, User-Controlled:** Curate content by persepctives. Create perspectives to shape what you see. Use our algorithm to find similar perespectives or filter content manually. Both human curation AND algorithmic personalization, all under your control.
 
-**Dual Navigation Modes:** Browse caves like Reddit (feed view with consensus sorting, filtering by type/perspective) OR explore visually through force-directed network graphs. Each serves a different purpose - feed for focused reading, network for discovery.
+**Dual Navigation Modes:** Browse caves like Reddit (feed view with consensus sorting, filtering by type/perspective) OR explore visually through network graphs. Each serves a different purpose - feed for focused reading, network for discovery.
 
-**Fire Economy - Scarce Voting:** An experimental, community driven, non-blockchain currency making votes meaningful instead of infinite. Earn fire as you create connection across topics when others agree with your connections. This scarcity prevents spam, encourages thoughtful curation, and creates a sustainable economy where quality content earns you more voting power.
+**Fire Economy - Scarce Voting:** An experimental, community driven, non-blockchain currency making votes meaningful instead of infinite. Earn fire as you create connection across topics when others agree with your connections. This scarcity prevents spam, encourages thoughtful curation, and creates a sustainable economy where quality content earns you more voting power. Fire is the most opinionated part of caves. It's purpose is to facilitate collaboration and thoughtfulness at scale.
 
 ---
 
@@ -26,7 +26,7 @@ Welcome. [Caves](https://itscaves.com) is a tool for collective knowledge buildi
 ### 🚀 For New Users
 Start here to get up and running quickly:
 - **[What is Caves?](getting-started/what-is-caves.md)** - Understand the core concepts and get started
-- **[The IC and Caves Vision](getting-started/ic-caves-vision.md)** - Why IC exists and how Caves fits in
+- **[The IC and Caves Vision](getting-started/ic-caves-vision.md)** - IC is the file type upon which caves is built. This explains why IC exists and how Caves fits in
 - **[IC in Practice](getting-started/ic-in-practice.md)** - Concrete examples of IC's power
 - **[Glossary](reference/glossary.md)** - Essential terminology
 
@@ -46,7 +46,6 @@ Dive deeper into caves:
 - Add text, links, images, videos, and files
 - *Transcribe* images, audio, video, and YouTube links to make content available to everyone
 - Vote to curate content and build connections
-- Automatic embedding of YouTube, Twitter, TikTok, Spotify, and more
 
 **Dual Navigation:**
 - **Feed View:** Browse like Reddit with consensus sorting and filtering
