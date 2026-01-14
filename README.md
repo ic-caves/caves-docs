@@ -4,10 +4,13 @@ Welcome. [Caves](https://itscaves.com) is a tool for collective knowledge buildi
 
 [Caves is](https://itscaves.com/c/caves%20is)... a collective intelligence tool, an experiment in working together, the human index, an MMO knowledge game, the infinite switchboard, a new way of being online... 
 
+Basically, caves are places where we put stuff. You could think of it as a stripped down subreddit minus conversations or what you might find when you searched up a #hashtag on a social site.
+
+> Note: Caves is very much in alpha. This is a long time personal project of mine so please be kind. Not everything always works, and when you find something [lemme know](https://discord.gg/8bW2xwv7kc).
 
 ## What Makes Caves Unique?
 
-**Instant Creation:** A cave is just a string of text. That's it. No setup, no moderation tools, no waiting for approval. Type a thought, it's a cave. This makes collaboration frictionless—anyone can spin up a space around any idea instantly.  You could think of it as a stripped down subreddit that takes seconds to create.
+**Instant Creation:** A cave is just a string of text. That's it. No setup, no moderation tools, no waiting for approval. Type a thought, it's a cave. This makes collaboration frictionless—anyone can spin up a space around any idea instantly.  
 
 **Open Format, Truly Portable:** Unlike proprietary exports, caves uses the `.ic` text file type - a human-readable, machine-parseable format designed for sharing thoughts. You can read your data as plain text, host it anywhere online, and import `.ic` files from across the internet into caves. It's interoperable, not just exportable.
 
@@ -19,25 +22,28 @@ Welcome. [Caves](https://itscaves.com) is a tool for collective knowledge buildi
 
 **Fire Economy - Scarce Voting:** An experimental, community driven, non-blockchain currency making votes meaningful instead of infinite. Earn fire as you create connection across topics when others agree with your connections. This scarcity prevents spam, encourages thoughtful curation, and creates a sustainable economy where quality content earns you more voting power. Fire is the most opinionated part of caves. It's purpose is to facilitate collaboration and thoughtfulness at scale.
 
+## Fun Bonus Features
+
+Some of these are only for members.
+
+**Easy Transcriptions** - transcribe images, audio, video, youtube, pull the text from an article with a single click. When one person does it everyone has access to it
+
+**Cave Portal** - forward images and links to our cave portal channel in [discord](https://discord.gg/8bW2xwv7kc) and it'll show up
+
+**MCP** - connect your account to our MCP server. This makes it super easy to find and create connections.
+
+**API** - another way to find and create connections 
+
 ---
 
 ## Documentation for Different Audiences
 
 ### 🚀 For New Users
 Start here to get up and running quickly:
-- **[What is Caves?](getting-started/what-is-caves.md)** - Understand the core concepts and get started
 - **[The IC and Caves Vision](getting-started/ic-caves-vision.md)** - IC is the file type upon which caves is built. This explains why IC exists and how Caves fits in
 - **[IC in Practice](getting-started/ic-in-practice.md)** - Concrete examples of IC's power
 - **[Glossary](reference/glossary.md)** - Essential terminology
 
-### 🎯 For Active Users
-Dive deeper into caves:
-- **[Caves & Connections](core-concepts/caves-and-connections.md)** - How relationships work
-- **[Perspectives & Shadows](core-concepts/perspectives-shadows.md)** - Master multiple viewpoints
-- **[Cave Map](features/exploration/cave-map.md)** - Navigate visually through cave networks
-- **[Adding Content](features/content-management/adding-content.md)** - All the ways to add information
-
----
 
 ## Core Features
 

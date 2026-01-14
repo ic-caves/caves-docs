@@ -1,17 +1,4 @@
----
-title: What is Caves?
-audience: users
-last_updated: 2026-01-09
-related: [../core-concepts/caves-and-connections.md, ../core-concepts/perspectives-shadows.md, ../reference/glossary.md]
----
-
 # What is Caves?
-
-**Purpose:** Understand the core concepts of caves and how it helps you organize, explore, and collaborate on knowledge.
-
-**Prerequisites:** None - start here!
-
----
 
 ## The Problem
 

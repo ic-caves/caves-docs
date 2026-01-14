@@ -1,10 +1,3 @@
----
-title: IC in Practice: Examples
-audience: users
-last_updated: 2026-01-11
-related: [./ic-caves-vision.md, ./what-is-caves.md]
----
-
 # IC in Practice: Examples
 
 ## The Trump Rorschach

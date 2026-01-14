@@ -1,11 +1,6 @@
----
-title: The IC and Caves Vision
-audience: users
-last_updated: 2026-01-10
-related: [./what-is-caves.md, ../core-concepts/caves-and-connections.md]
----
-
 # The IC and Caves Vision
+
+> caves : .ic :: excel : .csv
 
 ## Step 1: IC Files Everywhere
 
