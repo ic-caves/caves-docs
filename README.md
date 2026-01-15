@@ -8,7 +8,7 @@ to be more concrete, caves are places where we put stuff. you can think of one a
 
 there is much more about what caves is [below](#what-is-caves)
 
-> note: caves is very much in alpha. this is a long time personal project of mine so please be kind. not everything always works, and when you find something [lemme know](https://discord.gg/8bw2xwv7kc).
+> note: caves is very much in alpha. this is a long time personal project. please be kind. not everything always works, and when you find something [lemme know](https://discord.gg/8bw2xwv7kc).
 
 ## what makes caves unique?
 
@@ -30,7 +30,7 @@ some of these are only for members, but [hit me up](https://discord.gg/8bw2xwv7k
 
 **easy transcriptions** - transcribe images, audio, video, youtube, pull the text from an article with a single click. when one person does it everyone has access to it
 
-**cave portal** - forward images and links to our cave portal channel in [discord](https://discord.gg/8bw2xwv7kc) and it'll show up
+**cave portal** - forward images and links to our cave portal channel in [discord](https://discord.gg/8bw2xwv7kc) and it'll show up [in caves](https://itscaves.com/c/cave%20portal)
 
 **mcp** - connect your account to our mcp server. this is very powerful. mcp makes it super easy to find and create connections.
 
@@ -54,9 +54,9 @@ some of these are only for members, but [hit me up](https://discord.gg/8bw2xwv7k
 
 **a knowledge game.** open-ended enough to invite play and creativity. the fire economy creates stakes - perspectives gain status in different domains of thought. you're not just organizing information, you're competing and cooperating to shape how ideas connect.
 
-**the infinite switchboard.** a way to find like-minded perspectives by navigating ideas. you don't browse profiles - you combine caves ("art" + "technology") and see who else lives at that intersection. the ideas themselves become the meeting point.
+**the infinite switchboard.** a way to find like-minded perspectives by navigating ideas. you don't browse profiles - you combine caves ("art" + "technology") and see what else is at that intersection. the ideas themselves are the meeting point.
 
-**where tweets pool.** short-form thoughts that would normally evaporate can accumulate and persist. what's ephemeral elsewhere becomes lasting here.
+**where tweets pool.** pools > streams. content that would normally evaporate can accumulate and persist. what's ephemeral elsewhere becomes lasting here.
 
 **a bubble maker.** intentional, controlled lenses. not the accidental filter bubbles of algorithmic feeds, but deliberate spaces where you scope to a subgroup and work within that context. bubbles as a feature, not a bug.
 
