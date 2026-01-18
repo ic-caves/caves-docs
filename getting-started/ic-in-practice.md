@@ -11,7 +11,9 @@ Take a divisive subject like Trump. Different people see completely different th
 
 Same person, wildly different readings. He's a Rorschach.
 
-IC maps these perspectives. The interpretations themselves. How many people connect Trump to fascist? How many to MAGA? How many to greatest president? The shape of collective thought on a subject.
+This isn't just about divisive topics. A journalist reads an article and tags it for *craft*—great example of source protection. A reader tags the same article for *content*—important climate story. Same thing, different readings, both valid.
+
+IC maps these perspectives. The interpretations themselves. Google's embedding captures one interpretation, flattening everything into a single semantic space. IC preserves the actual human readings—multiple, simultaneous, contradictory. The connection itself is data.
 
 ## One Use: Opinion Leaders
 
@@ -72,15 +74,3 @@ You can’t make these queries anywhere right now. Political views, TV preferenc
 IC breaks that. Because it’s all just connections, the similarity you establish in one place can filter what you see in another. You’re slicing by *perspective* rather than by *person*. The individual disappears. The pattern remains.
 
 Lenses work across everything. Not strictly politics. Not strictly anything. Arbitrary cross-domain exploration based on shared perspective.
-
-## Multiple Readings of the Same Thing
-
-A journalist reads an article and tags it for *craft*—great example of source protection.
-
-A reader tags the same article for *content*—important climate story.
-
-Same article. Different readings. Both valid.
-
-Google's embedding captures one interpretation. It flattens everything into a single semantic space. It can't know you're reading for form over content.
-
-IC preserves the actual human reading. The connection itself is data—not derived from content, but the interpretation.
