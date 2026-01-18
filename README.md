@@ -2,7 +2,7 @@
 
 welcome. 
 
-[caves](https://itscaves.com) is a tool for collective knowledge building at scale. [caves is](https://itscaves.com/c/caves%20is)...a collective intelligence tool, an experiment in working together, an mmo knowledge game, a new way of being online... 
+[caves](https://itscaves.com) is a tool for collective knowledge building at scale. [caves is](https://itscaves.com/c/caves%20is)...an experiment in working together, an mmo knowledge game, a new way of being online... 
 
 to be more concrete, caves are places where we put stuff. you can think of one as a stripped down subreddit or the aggregated search results of a #hashtag on a social site.
 
