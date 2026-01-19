@@ -60,6 +60,7 @@ Fire **is**:
 
 - A signal for others—helping people quickly find useful perspectives in a domain
 - A spam prevention mechanism—you can't endlessly connect without thought
+- A connection to system realities—fire reflects actual costs like transcriptions and LLM usage
 - An experiment—the rules may evolve as we learn what produces the best collective outcomes
 
 ## The Honest Truth
