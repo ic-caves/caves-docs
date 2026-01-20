@@ -34,7 +34,7 @@ some of these are only for members, but [hit me up](https://discord.gg/8bw2xwv7k
 
 **mcp** - connect your account to our mcp server. this is very powerful. mcp makes it super easy to find and create connections.
 
-**api** - another way to find and create connections 
+**[api](reference/realtime-api.md)** - remember when twitter was a developer's playground? now caves is that playground. programmatically create connections, search and even watch caves in realtime 
 
 ---
 
