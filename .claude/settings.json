@@ -1,0 +1,8 @@
+{
+  "skills": {
+    "caves": {
+      "description": "Knowledge center for Caves - search documentation, blog, and the caves system for answers about the collective knowledge platform",
+      "prompt_file": "skills/caves-knowledge.md"
+    }
+  }
+}
