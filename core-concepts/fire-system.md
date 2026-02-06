@@ -48,6 +48,20 @@ Like everything in Caves, this list is filterable by perspective. The leaderboar
 
 There's no ceiling—if you're making great connections that resonate, your fire can grow well beyond your allocation.
 
+## Paying It Forward: Reinforcing What You Use
+
+When you find something useful in Caves—a transcription, a recipe, a well-organized collection—you can give credit by reinforcing the connections that made it discoverable.
+
+**The move:** Don't just reinforce the thing itself. Go up the chain.
+
+Say you found a recipe file through someone's index. The recipe title → file connection is clearly useful—you might reinforce that. But go deeper: if there's a "recipes" → recipe title connection, reinforce that too. You're not just voting for the recipe. You're voting for the organizational work that helped you discover it.
+
+This is how fire flows to the people doing transcription work, building indexes, and making thoughtful connections. They don't just get credit for the final artifact—they get credit for the curation that makes the artifact meaningfull.
+
+**Why this matters:** If fire only flows to the most visible nodes, nobody has incentive to do the organizing work. But when you reinforce the chain, you're saying "this path was valuable." That creates an economy where transcription, indexing, and connection work becomes worth doing.
+
+It's optional—your fire, your choice. But this is how you support the commons. We are all working together here. When someone's organizational work saves you time, reinforcing their connections is how the system knows to value that work.
+
 ## What Fire Is (and Isn't)
 
 Fire is **not**:
