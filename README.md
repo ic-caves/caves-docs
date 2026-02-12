@@ -32,7 +32,7 @@ some of these are only for members, but [hit me up](https://discord.gg/8bw2xwv7k
 
 **cave portal** - forward images and links to our cave portal channel in [discord](https://discord.gg/8bw2xwv7kc) and it'll show up [in caves](https://itscaves.com/c/cave%20portal)
 
-**mcp** - connect your account to our mcp server. this is very powerful. mcp makes it super easy to find and create connections.
+**[mcp](reference/mcp-tools.md)** - connect your account to our mcp server. this is very powerful. mcp makes it super easy to find and create connections.
 
 **[api](reference/realtime-api.md)** - remember when twitter was a developer's playground? now caves is that playground. programmatically create connections, search and even watch caves in realtime 
 
