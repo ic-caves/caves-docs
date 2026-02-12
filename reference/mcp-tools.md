@@ -34,8 +34,8 @@ search for caves by similarity. finds caves with tags similar to your query. opt
 **caves__get_subcaves**
 get all the subcaves (children) of a specific cave. great for exploring hierarchies and seeing what's connected under a topic.
 
-**caves__my_shadow_caves**
-fetch your entire knowledge graph for a perspective. returns all connections you've made in markdown, json, or ic format. use markdown format by default - it's more compressed and easier to work with.
+**caves__get_shadow_caves**
+fetch the entire knowledge graph for any perspective. returns all connections for a given perspective id in markdown, json, or ic format. use markdown format by default - it's more compressed and easier to work with. great for exploring other people's knowledge graphs or exporting your own.
 
 ### creating knowledge
 
@@ -77,19 +77,19 @@ fetch content from ipfs tags or urls. for ipfs, it checks metadata and returns i
 
 1. use **caves__search_caves** to find caves you're interested in
 2. use **caves__getPidsForTags** to see who else is working in that area
-3. use **caves__my_shadow_caves** with their perspective id to explore their knowledge graph (if they've made it public)
+3. use **caves__get_shadow_caves** with their perspective id to explore their knowledge graph (if they've made it public)
 
 ### exploring hierarchies
 
 1. start with a broad cave (e.g., "technology")
 2. use **caves__get_subcaves** to see what's underneath
 3. drill down into interesting subcaves
-4. use **caves__my_shadow_caves** to see your full hierarchy
+4. use **caves__get_shadow_caves** to see your full hierarchy
 
 ## tips
 
 - always use lowercase for cave tags (unless it's a perspective id)
-- use markdown format for caves__my_shadow_caves - it's more compact
+- use markdown format for caves__get_shadow_caves - it's more compact
 - batch multiple connections together in caves__connect_caves to save time
 - connections cost fire, so think before you connect
 - use different perspectives for different contexts (work, personal, experimental)
