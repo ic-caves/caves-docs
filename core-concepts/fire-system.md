@@ -14,6 +14,8 @@ Let's say you connect jelly → peanut butter. Caves itself is always first in t
 
 As more people agree with that connection, fire keeps flowing to earlier connectors—randomly distributed among everyone who's still eligible.
 
+**One exception:** If you have 5 or more perspectives that have made the same connection, your own votes can't benefit your perspectives. But if you have fewer than 5 perspectives on a connection, you can earn from your own votes.
+
 ## The Cap
 
 You can't earn fire forever from a single connection. Your earning potential is capped by how many places you've put that child cave.
