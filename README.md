@@ -43,6 +43,7 @@ some of these are only for members, but [hit me up](https://discord.gg/8bw2xwv7k
 - **[the ic and caves vision](getting-started/ic-caves-vision.md)** - ic is the file type upon which caves is built. this explains why ic exists and how caves fits in
 - **[ic in practice](getting-started/ic-in-practice.md)** - concrete examples of ic's power
 - **[the fire system](core-concepts/fire-system.md)** - how fire works as the currency for connections
+- **[conventions](conventions/conventions.md)** - connection patterns we use conventionally in the caves
 - **[glossary](reference/glossary.md)** - essential terminology
 
 ## what is caves?
