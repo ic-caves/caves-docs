@@ -69,10 +69,21 @@ A tag with a slash or an "and" is usually two caves wearing a trench coat. Pick 
 
 When you do coin a new tag, phrase it as generally as your meaning allows, so the *next* person's thought can land on it too. A cave only accrues value when more than one mind uses it.
 
+### Long content becomes a file, referenced by a short phrase
+
+A tag is a name, not a document. Anything longer than about tweet length should live as a **text file**, not be crammed into the tag itself. The easiest route is Caves' IPFS upload — the content becomes permanent and shared; a public blog post or any publicly-hosted text file works just as well.
+
+Then give the file a handle: **connect its IPFS path (or URL) as a child of a short synopsis phrase** people can actually reference. The synopsis is the reusable cave; the file just hangs beneath it.
+
+- ✅ `the attention economy` ← `/ipfs/bafk…`
+- ❌ a 400-word passage pasted in as a cave name
+
+The short phrase is what connects to the rest of the graph; the file is only what it points to.
+
 ### System limits
 
 - Tags **cannot contain newlines** (they're stripped on import).
-- There is **no length limit** — expressive multi-word phrases are encouraged (see below).
+- There is **no hard length limit**, but a tag is a name — keep it short and offload anything longer than tweet length to a file (see *Long content becomes a file* above).
 - A connection where the **child equals the parent** is rejected — a cave can't be its own member.
 
 ---
@@ -124,6 +135,8 @@ This is the heart of the conventions. Three habits, in order:
 
 Before making any new cave, search for one that already means the same thing. If a good match exists, **use it verbatim** — even if you'd have phrased it slightly differently. Your exact wording matters less than landing on shared structure.
 
+**But the test is meaning, not spelling.** Reuse applies when the existing cave means what *you* mean. Phrasing itself can carry meaning — slang, in-group or field-specific terminology, or a deliberately particular sense are not just blander tags dressed up. If the only difference is wording (`what causes depression` vs. `causes of depression`), reuse the existing cave. If the difference is *meaning* — your term says something the general one doesn't — coin the new cave, then connect it to its nearest neighbor so both stay discoverable. It's a judgment call: when it's genuinely close, lean toward reuse, but don't flatten a distinction that matters to the people who use the term.
+
 ### 2. Anchor upward
 
 When you add a concept — especially in an area new to you — find existing, more **general** caves that can act as its **parent**. Attach to the nearest well-connected parent, roughly one or two levels up, and stop. Don't climb all the way to a generic root like `thing`.
@@ -159,4 +172,4 @@ Before you write a connection, ask:
 3. **Searched first?** Does a cave for this already exist to reuse?
 4. **Expressive?** Does the phrasing carry the relationship (`causes of X`), not just a bare keyword?
 5. **Anchored?** Is there an existing broader parent to hang this under and reinforce?
-6. **Right direction?** parent = broader, child = narrower.
+6. **Right direction?** parent = broader/above, child = narrower/below.
