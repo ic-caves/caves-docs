@@ -7,7 +7,7 @@ related: [glossary.md, mcp-tools.md, ../core-concepts/caves-and-connections.md]
 
 # Caves Conventions
 
-**Purpose:** A shared style guide for naming caves and making connections. Caves only works if everyone's thinking lands in *shared* structure — a pile of near-duplicate tags is worthless, but a connection slotted into caves other people already use is discoverable, reinforces its authors, and clusters you near kindred minds. These conventions exist to keep the graph one graph.
+**Purpose:** A shared style guide for naming caves and making connections. Caves only works if everyone's thinking lands in *shared* structure — a pile of near-duplicate tags is less valuable, but a connection slotted into caves other people already use is discoverable, reinforces its authors, and clusters you near kindred minds. These conventions exist to keep the graph one graph.
 
 **Prerequisites:** [Caves & Connections](../core-concepts/caves-and-connections.md)
 
@@ -31,7 +31,7 @@ related: [glossary.md, mcp-tools.md, ../core-concepts/caves-and-connections.md]
 
 ## Naming Caves
 
-A cave is just a string of text — any string instantly becomes a cave. That freedom is why conventions matter: nothing stops you from creating a duplicate, so the discipline is on you.
+A cave is just a string of text — any string instantly becomes a cave. That freedom is why conventions matter: nothing stops you from creating a duplicate, so the discipline is on us.
 
 ### Use lowercase
 
