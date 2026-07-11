@@ -70,9 +70,15 @@ A tag with a slash or an "and" is usually two caves wearing a trench coat. Pick 
 
 When you do coin a new tag, phrase it as generally as your meaning allows, so the *next* person's thought can land on it too. A cave only accrues value when more than one mind uses it.
 
+### A cave can be a phrase, a sentence, or a quote
+
+Caves aren't only keywords. A memorable sentence, a metaphor, a line of a poem, an aphorism, or a direct quote can be a cave in its own right — held whole, exactly as it's meant to be read. `moving through water`, `the map is not the territory`, and `move fast and break things` are all legitimate caves. Don't reflexively compress an expressive line down to a bare noun phrase: if the wording *is* the idea, keep the wording.
+
+The test isn't word count — it's whether the cave captures a **single idea**. A good rule of thumb for the upper bound is tweet length, around 144 characters. Past that you're usually holding more than one idea, or a document rather than a name, and it belongs in a file (see below). But that's a judgment call, not a hard cutoff.
+
 ### Long content becomes a file, referenced by a short phrase
 
-A tag is a name, not a document. Anything longer than about tweet length should live as a **text file**, not be crammed into the tag itself. The easiest route is Caves' IPFS upload — the content becomes permanent and shared; a public blog post or any publicly-hosted text file works just as well.
+A cave is a name or a line, not a document. Once content runs past a sentence or so — past roughly tweet length (~144 characters), or once it's carrying more than one idea — it should live as a **text file**, not be crammed into the cave itself. The easiest route is Caves' IPFS upload — the content becomes permanent and shared; a public blog post or any publicly-hosted text file works just as well.
 
 Then give the file a handle: **connect its IPFS path (or URL) as a child of a short synopsis phrase** people can actually reference. The synopsis is the reusable cave; the file just hangs beneath it.
 
@@ -84,7 +90,7 @@ The short phrase is what connects to the rest of the graph; the file is only wha
 ### System limits
 
 - Tags **cannot contain newlines** (they're stripped on import).
-- There is **no hard length limit**, but a tag is a name — keep it short and offload anything longer than tweet length to a file (see *Long content becomes a file* above).
+- There is **no hard length limit**. A cave can be a word, a phrase, or a whole sentence — but it's a name, not a document. Around tweet length (~144 characters) is a good ceiling; offload anything longer, or anything holding more than one idea, to a file (see *Long content becomes a file* above).
 - A connection where the **child equals the parent** is rejected — a cave can't be its own member.
 
 ---
