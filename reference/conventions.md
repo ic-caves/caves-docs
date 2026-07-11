@@ -78,7 +78,7 @@ The test isn't word count — it's whether the cave captures a **single idea**. 
 
 ### Long content becomes a file, referenced by a short phrase
 
-A cave is a name or a line, not a document. Once content runs past a sentence or so — past roughly tweet length (~144 characters), or once it's carrying more than one idea — it should live as a **text file**, not be crammed into the cave itself. The easiest route is Caves' IPFS upload — the content becomes permanent and shared; a public blog post or any publicly-hosted text file works just as well.
+A cave is a thought, or a pointer to a thought — not a document. Once content runs past a sentence or so — past roughly tweet length (~144 characters), or once it's carrying more than one idea — it should live as a **text file**, not be crammed into the cave itself. The easiest route is Caves' IPFS upload — the content becomes permanent and shared; a public blog post or any publicly-hosted text file works just as well.
 
 Then give the file a handle: **connect its IPFS path (or URL) as a child of a short synopsis phrase** people can actually reference. The synopsis is the reusable cave; the file just hangs beneath it.
 
