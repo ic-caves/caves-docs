@@ -11,7 +11,7 @@ related: [glossary.md, mcp-tools.md, ../core-concepts/caves-and-connections.md]
 
 **Prerequisites:** [Caves & Connections](../core-concepts/caves-and-connections.md)
 
-**The one rule behind all the others:** reuse before you create. Almost everything below is a way of making your work land on structure that already exists.
+**The one rule behind all the others:** reuse before you create — where "reuse" means *connecting to* what already exists, not erasing what's distinctive about how you think. When your phrasing matches an existing cave, use it; when your phrasing carries meaning the existing cave doesn't, coin your own and tie it in. Almost everything below is a way of making your work land on — or hang off of — structure that already exists.
 
 ---
 
@@ -24,6 +24,7 @@ related: [glossary.md, mcp-tools.md, ../core-concepts/caves-and-connections.md]
 | `x-men` (real name with a dash) | `heat / warmth` (pick one, or split into two) |
 | `causes of depression` ← `chronic pain` | `chronic pain` ← `depression` (relationship lost) |
 | search first, then reuse the match | create a near-synonym of an existing cave |
+| keep a distinctive personal phrase *and* connect it to the community cave | drop your phrasing when it carries real meaning |
 | anchor new work under an existing broader cave | leave a concept floating with no parent |
 | a **No** vote to say "these aren't related" | silently skip a disagreement |
 
@@ -69,9 +70,15 @@ A tag with a slash or an "and" is usually two caves wearing a trench coat. Pick 
 
 When you do coin a new tag, phrase it as generally as your meaning allows, so the *next* person's thought can land on it too. A cave only accrues value when more than one mind uses it.
 
+### A cave can be a phrase, a sentence, or a quote
+
+Caves aren't only keywords. A memorable sentence, a metaphor, a line of a poem, an aphorism, or a direct quote can be a cave in its own right — held whole, exactly as it's meant to be read. `moving through water`, `the map is not the territory`, and `move fast and break things` are all legitimate caves. Don't reflexively compress an expressive line down to a bare noun phrase: if the wording *is* the idea, keep the wording.
+
+The test isn't word count — it's whether the cave captures a **single idea**. A good rule of thumb for the upper bound is tweet length, around 144 characters. Past that you're usually holding more than one idea, or a document rather than a name, and it belongs in a file (see below). But that's a judgment call, not a hard cutoff.
+
 ### Long content becomes a file, referenced by a short phrase
 
-A tag is a name, not a document. Anything longer than about tweet length should live as a **text file**, not be crammed into the tag itself. The easiest route is Caves' IPFS upload — the content becomes permanent and shared; a public blog post or any publicly-hosted text file works just as well.
+A cave is a thought, or a pointer to a thought — not a document. Once content runs past a sentence or so — past roughly tweet length (~144 characters), or once it's carrying more than one idea — it should live as a **text file**, not be crammed into the cave itself. The easiest route is Caves' IPFS upload — the content becomes permanent and shared; a public blog post or any publicly-hosted text file works just as well.
 
 Then give the file a handle: **connect its IPFS path (or URL) as a child of a short synopsis phrase** people can actually reference. The synopsis is the reusable cave; the file just hangs beneath it.
 
@@ -83,7 +90,7 @@ The short phrase is what connects to the rest of the graph; the file is only wha
 ### System limits
 
 - Tags **cannot contain newlines** (they're stripped on import).
-- There is **no hard length limit**, but a tag is a name — keep it short and offload anything longer than tweet length to a file (see *Long content becomes a file* above).
+- There is **no hard length limit**. A cave can be a word, a phrase, or a whole sentence — but it's a name, not a document. Around tweet length (~144 characters) is a good ceiling; offload anything longer, or anything holding more than one idea, to a file (see *Long content becomes a file* above).
 - A connection where the **child equals the parent** is rejected — a cave can't be its own member.
 
 ---
@@ -133,9 +140,17 @@ This is the heart of the conventions. Three habits, in order:
 
 ### 1. Search before you create
 
-Before making any new cave, search for one that already means the same thing. If a good match exists, **use it verbatim** — even if you'd have phrased it slightly differently. Your exact wording matters less than landing on shared structure.
+Before making any new cave, search for one that already means the same thing. Then make a judgment call — **the test is meaning, not spelling:**
 
-**But the test is meaning, not spelling.** Reuse applies when the existing cave means what *you* mean. Phrasing itself can carry meaning — slang, in-group or field-specific terminology, or a deliberately particular sense are not just blander tags dressed up. If the only difference is wording (`what causes depression` vs. `causes of depression`), reuse the existing cave. If the difference is *meaning* — your term says something the general one doesn't — coin the new cave, then connect it to its nearest neighbor so both stay discoverable. It's a judgment call: when it's genuinely close, lean toward reuse, but don't flatten a distinction that matters to the people who use the term.
+- **If the difference is only wording** (`what causes depression` vs. `causes of depression`), reuse the existing cave verbatim — even if you'd have phrased it slightly differently. Here your exact spelling matters less than landing on shared structure.
+- **If your phrasing carries meaning the existing cave doesn't** — slang, in-group or field-specific terminology, or a deliberately particular sense — keep it. These aren't just blander tags dressed up, and flattening them loses something real for the people who use the term.
+
+Reuse is the default, not an absolute. When it's genuinely close, lean toward reuse; but a distinctive personal phrasing is worth keeping when it says something the general cave doesn't.
+
+**Keeping your phrase *and* staying connected.** Coining your own cave doesn't mean floating free of the shared structure — that's the failure mode reuse exists to prevent. Tie your phrasing in so the personal and the community versions reinforce each other instead of competing. Two good moves:
+
+- **Make your cave a child of the community one.** If the community uses `causes of depression` and you think of it as `the weight that pulls you under`, connect `causes of depression` ← `the weight that pulls you under`. Your phrasing lives on, hanging off the shared category where others can still find it.
+- **Mirror how the community cave is anchored.** Look at how the established cave ties into the graph — its parents and neighbors — and connect yours the same way. Your variant ends up sitting alongside the community one, reachable by the same paths.
 
 ### 2. Anchor upward
 
@@ -169,7 +184,7 @@ Before you write a connection, ask:
 
 1. **Lowercase?** (unless it's a `0x…` pId)
 2. **Spaces, not dashes?** (unless the name really has one)
-3. **Searched first?** Does a cave for this already exist to reuse?
+3. **Searched first?** Does a cave for this already exist? If it matches your meaning, reuse it; if your phrasing carries meaning it doesn't, coin yours and connect it in.
 4. **Expressive?** Does the phrasing carry the relationship (`causes of X`), not just a bare keyword?
 5. **Anchored?** Is there an existing broader parent to hang this under and reinforce?
 6. **Right direction?** parent = broader/above, child = narrower/below.
