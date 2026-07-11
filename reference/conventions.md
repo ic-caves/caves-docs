@@ -11,7 +11,7 @@ related: [glossary.md, mcp-tools.md, ../core-concepts/caves-and-connections.md]
 
 **Prerequisites:** [Caves & Connections](../core-concepts/caves-and-connections.md)
 
-**The one rule behind all the others:** reuse before you create. Almost everything below is a way of making your work land on structure that already exists.
+**The one rule behind all the others:** reuse before you create — where "reuse" means *connecting to* what already exists, not erasing what's distinctive about how you think. When your phrasing matches an existing cave, use it; when your phrasing carries meaning the existing cave doesn't, coin your own and tie it in. Almost everything below is a way of making your work land on — or hang off of — structure that already exists.
 
 ---
 
@@ -24,6 +24,7 @@ related: [glossary.md, mcp-tools.md, ../core-concepts/caves-and-connections.md]
 | `x-men` (real name with a dash) | `heat / warmth` (pick one, or split into two) |
 | `causes of depression` ← `chronic pain` | `chronic pain` ← `depression` (relationship lost) |
 | search first, then reuse the match | create a near-synonym of an existing cave |
+| keep a distinctive personal phrase *and* connect it to the community cave | drop your phrasing when it carries real meaning |
 | anchor new work under an existing broader cave | leave a concept floating with no parent |
 | a **No** vote to say "these aren't related" | silently skip a disagreement |
 
@@ -133,9 +134,17 @@ This is the heart of the conventions. Three habits, in order:
 
 ### 1. Search before you create
 
-Before making any new cave, search for one that already means the same thing. If a good match exists, **use it verbatim** — even if you'd have phrased it slightly differently. Your exact wording matters less than landing on shared structure.
+Before making any new cave, search for one that already means the same thing. Then make a judgment call — **the test is meaning, not spelling:**
 
-**But the test is meaning, not spelling.** Reuse applies when the existing cave means what *you* mean. Phrasing itself can carry meaning — slang, in-group or field-specific terminology, or a deliberately particular sense are not just blander tags dressed up. If the only difference is wording (`what causes depression` vs. `causes of depression`), reuse the existing cave. If the difference is *meaning* — your term says something the general one doesn't — coin the new cave, then connect it to its nearest neighbor so both stay discoverable. It's a judgment call: when it's genuinely close, lean toward reuse, but don't flatten a distinction that matters to the people who use the term.
+- **If the difference is only wording** (`what causes depression` vs. `causes of depression`), reuse the existing cave verbatim — even if you'd have phrased it slightly differently. Here your exact spelling matters less than landing on shared structure.
+- **If your phrasing carries meaning the existing cave doesn't** — slang, in-group or field-specific terminology, or a deliberately particular sense — keep it. These aren't just blander tags dressed up, and flattening them loses something real for the people who use the term.
+
+Reuse is the default, not an absolute. When it's genuinely close, lean toward reuse; but a distinctive personal phrasing is worth keeping when it says something the general cave doesn't.
+
+**Keeping your phrase *and* staying connected.** Coining your own cave doesn't mean floating free of the shared structure — that's the failure mode reuse exists to prevent. Tie your phrasing in so the personal and the community versions reinforce each other instead of competing. Two good moves:
+
+- **Make your cave a child of the community one.** If the community uses `causes of depression` and you think of it as `the weight that pulls you under`, connect `causes of depression` ← `the weight that pulls you under`. Your phrasing lives on, hanging off the shared category where others can still find it.
+- **Mirror how the community cave is anchored.** Look at how the established cave ties into the graph — its parents and neighbors — and connect yours the same way. Your variant ends up sitting alongside the community one, reachable by the same paths.
 
 ### 2. Anchor upward
 
@@ -169,7 +178,7 @@ Before you write a connection, ask:
 
 1. **Lowercase?** (unless it's a `0x…` pId)
 2. **Spaces, not dashes?** (unless the name really has one)
-3. **Searched first?** Does a cave for this already exist to reuse?
+3. **Searched first?** Does a cave for this already exist? If it matches your meaning, reuse it; if your phrasing carries meaning it doesn't, coin yours and connect it in.
 4. **Expressive?** Does the phrasing carry the relationship (`causes of X`), not just a bare keyword?
 5. **Anchored?** Is there an existing broader parent to hang this under and reinforce?
 6. **Right direction?** parent = broader/above, child = narrower/below.
