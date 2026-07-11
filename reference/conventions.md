@@ -152,9 +152,11 @@ Reuse is the default, not an absolute. When it's genuinely close, lean toward re
 - **Make your cave a child of the community one.** If the community uses `causes of depression` and you think of it as `the weight that pulls you under`, connect `causes of depression` ← `the weight that pulls you under`. Your phrasing lives on, hanging off the shared category where others can still find it.
 - **Mirror how the community cave is anchored.** Look at how the established cave ties into the graph — its parents and neighbors — and connect yours the same way. Your variant ends up sitting alongside the community one, reachable by the same paths.
 
-### 2. Anchor upward
+### 2. Anchor upward — and actually make the links
 
-When you add a concept — especially in an area new to you — find existing, more **general** caves that can act as its **parent**. Attach to the nearest well-connected parent, roughly one or two levels up, and stop. Don't climb all the way to a generic root like `thing`.
+When you add a concept — especially in an area new to you — find existing, more **general** caves to act as its **parent**. But finding them is only half the job: you have to **create the connections**, not just confirm a plausible parent exists. This is the step most often skipped, and skipping it leaves your idea stranded.
+
+Connect it in **at least two levels up where a good parent exists** — to its immediate category *and* the broader one above it — so it's woven into the hierarchy, not dangling off a single tag. But stop before a generic root like `thing`.
 
 Anchoring upward pays off three ways: your work becomes **discoverable** (it hangs off caves people already browse), it **reinforces** the people who built that structure, and it **clusters** you near others thinking in the same area.
 
