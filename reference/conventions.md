@@ -1,7 +1,7 @@
 ---
 title: Caves Conventions
 audience: users
-last_updated: 2026-07-10
+last_updated: 2026-07-14
 related: [glossary.md, mcp-tools.md, ../core-concepts/caves-and-connections.md]
 ---
 
@@ -27,6 +27,8 @@ related: [glossary.md, mcp-tools.md, ../core-concepts/caves-and-connections.md]
 | keep a distinctive personal phrase *and* connect it to the community cave | drop your phrasing when it carries real meaning |
 | anchor new work under an existing broader cave | leave a concept floating with no parent |
 | a **No** vote to say "these aren't related" | silently skip a disagreement |
+| `ada lovelace` ← `0xCHILD…` (a perspective declares what it *is*) | leave a pId's identity implicit |
+| `0xPARENT…` ← `0xCHILD…` (inherit a worldview, then override) | recreate a parent's connections by hand |
 
 ---
 
@@ -131,6 +133,36 @@ Each connection also carries a **value**:
 
 - `true` = a **Yes** vote — affirm the link ("these belong together")
 - `false` = a **No** vote — reject the link ("these do *not* belong together")
+
+---
+
+## A pId as a Node: Identity and Inheritance
+
+Normally a pId is the **actor** behind a connection — though a perspective isn't necessarily a *who*; it can just as easily be a *what* (a text, a topic, a stance). And because a pId is also just a string, it is also a valid **cave** you can connect like any other. When a perspective connects *its own* pId, it is making a statement about what it is.
+
+### Identity — "this perspective *is* X"
+
+Put your own pId as the **child** of the thing you are:
+
+`{parent: X, child: yourPId}` reads *this perspective is X.*
+
+- **A person** — anchor a pId under its human handle: `{parent: "ada lovelace", child: "0x595d…64E4"}` says *this perspective is `ada lovelace`.*
+- **A text** — when a perspective exists entirely to speak for a text, anchor it under that text: `{parent: "/ipfs/bafk…", child: "0x595d…64E4"}` says *this perspective is that essay.* The perspective and the source become the same identity.
+
+Your pId is always the **child** here (the specific instance); the identity you are claiming is the **parent** (the broader thing). Remember pIds keep their exact `0x…` capitalization — don't lowercase them, even when they appear as a node.
+
+### Inheritance — "this perspective *inherits from* Y"
+
+Take that one step further: make your pId a child of **another pId**.
+
+`{parent: "0xPARENT…", child: "0xCHILD…"}` reads *0xCHILD inherits from 0xPARENT.*
+
+The child perspective adopts **all of the parent's connections as its own** — they become its defaults — **except where the child has made its own connection, which overrides the inherited one.** A `No` vote from the child cancels an inherited `Yes`; a different parent/child link from the child supersedes the inherited version. It is perspective subclassing: start from another perspective's whole worldview, then diverge only where you actually disagree.
+
+This is a convention, but caves resolves it for you: when it reads a perspective's graph, the inherited connections come through, with the perspective's own connections taking precedence.
+
+- ✅ a "skeptical" shadow inherits from a base perspective, then overrides just the handful of connections it sees differently
+- ✅ a domain bot inherits from a curated seed perspective, then adds its own specifics on top
 
 ---
 

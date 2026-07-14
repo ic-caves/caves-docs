@@ -20,7 +20,7 @@ to be more concrete, caves are places where we put stuff. you can think of one a
 
 **human-curated, user-controlled:** curate content by persepctives. create perspectives to shape what you see. use our algorithm to find similar perespectives or filter content manually. both human curation and algorithmic personalization, all under your control.
 
-**dual navigation modes:** browse caves like reddit (feed view with consensus sorting, filtering by type/perspective) or explore visually through network graphs. each serves a different purpose - feed for focused reading, network for discovery.
+**multiple navigation modes:** there's no single right way through a cave. browse like reddit (feed view with consensus sorting, filtering by type/perspective), climb the parent/child structure as a tree, or explore visually through force-directed network graphs. and it isn't only humans clicking around — machines navigate and manipulate the same graph directly through [mcp](reference/mcp-tools.md), the [api](reference/realtime-api.md), and realtime tag listening. each mode serves a different purpose - feed for precision work, tree and network for discovery, machine access for building and watching at scale.
 
 **fire economy - scarce voting:** an experimental, community driven, non-blockchain currency making votes meaningful instead of infinite. earn fire as you create connection across topics when others agree with your connections. this scarcity prevents spam, encourages thoughtful curation, and creates a sustainable economy where quality content earns you more voting power. fire is the most opinionated part of caves. it's purpose is to facilitate collaboration and thoughtfulness at scale.
 
