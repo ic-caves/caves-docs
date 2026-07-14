@@ -20,6 +20,12 @@ Once IC files are everywhere, what do we do with them?
 
 **Browsing, filtering, visualizing**—all up for grabs. Anyone can build tools on the format.
 
+## From Knowing to Doing
+
+A connection is a vote. Aggregated, those votes build *knowledge*—what's related, what a group understands together. But the same votes can aggregate *will*: what a group should do.
+
+A proposal is a cave. A vote is a connection. The tally is a query. Nothing new to build—IC used for a decision instead of a fact. Knowledge becomes agency: a group uses the graph not just to know together, but to decide and make together—steer a project, author an institution, or shape a work of art.
+
 ## Why Simplicity Matters
 
 IC files are just indexes. Indexes of thoughts. That's it.
@@ -39,6 +45,14 @@ What AI searches through becomes more and more valuable. The quality of the inde
 IC lets groups create their own knowledge stores. People who care about a topic can curate what matters, generate their own trusted sources, and make that available—to themselves, to each other, to AI. Interoperable. Portable. Not locked in a platform.
 
 This is the future: not one index controlled by corporations, but many indexes maintained by communities who actually care—and linked to each other through a system of trust. Not isolated silos, but a network of knowledge stores that can connect, share, and build on one another.
+
+## IC as Instinct
+
+AI models are huge, slow, and frozen at a training cutoff—so they drift toward the average. Their judgment is *mid*.
+
+IC can act as a fast, swappable instinct alongside the model: a small, curated graph, read live, that pulls its judgment in a chosen direction. The model reasons; the graph gives it a gut.
+
+The power isn't size—it's narrowness. You don't average the whole web; you plug in one community's perspective, one expert's, your own. And because it's just a text index, that instinct updates in real time—tracking a reality the frozen model never saw. A different `.ic`, a different gut.
 
 ## Caves: One Implementation
 
