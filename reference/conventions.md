@@ -1,7 +1,7 @@
 ---
 title: Caves Conventions
 audience: users
-last_updated: 2026-07-14
+last_updated: 2026-07-18
 related: [glossary.md, mcp-tools.md, ../core-concepts/caves-and-connections.md]
 ---
 
@@ -28,6 +28,7 @@ related: [glossary.md, mcp-tools.md, ../core-concepts/caves-and-connections.md]
 | anchor new work under an existing broader cave | leave a concept floating with no parent |
 | a **No** vote to say "these aren't related" | silently skip a disagreement |
 | `ada lovelace` ← `0xCHILD…` (a perspective declares what it *is*) | leave a pId's identity implicit |
+| `0xSELF…` ← `the analytical engine` (a perspective declares what *describes* it) | flip the direction and accidentally claim you *are* it |
 | `0xPARENT…` ← `0xCHILD…` (inherit a worldview, then override) | recreate a parent's connections by hand |
 
 ---
@@ -138,7 +139,7 @@ Each connection also carries a **value**:
 
 ## A pId as a Node: Identity and Inheritance
 
-Normally a pId is the **actor** behind a connection — though a perspective isn't necessarily a *who*; it can just as easily be a *what* (a text, a topic, a stance). And because a pId is also just a string, it is also a valid **cave** you can connect like any other. When a perspective connects *its own* pId, it is making a statement about what it is.
+Normally a pId is the **actor** behind a connection — though a perspective isn't necessarily a *who*; it can just as easily be a *what* (a text, a topic, a stance). And because a pId is also just a string, it is also a valid **cave** you can connect like any other. When a perspective connects *its own* pId, it is making a statement about itself — and **direction is everything**: putting your pId as the *child* of something says what you **are** (identity); putting something as the *child* of your pId says what **belongs to** or **describes** you.
 
 ### Identity — "this perspective *is* X"
 
@@ -150,6 +151,19 @@ Put your own pId as the **child** of the thing you are:
 - **A text** — when a perspective exists entirely to speak for a text, anchor it under that text: `{parent: "/ipfs/bafk…", child: "0x595d…64E4"}` says *this perspective is that essay.* The perspective and the source become the same identity.
 
 Your pId is always the **child** here (the specific instance); the identity you are claiming is the **parent** (the broader thing). Remember pIds keep their exact `0x…` capitalization — don't lowercase them, even when they appear as a node.
+
+### Description — "this *describes* the perspective"
+
+Flip the direction and the meaning flips with it. Put the other cave as the **child** of your own pId:
+
+`{parent: yourPId, child: X}` reads *X describes / belongs to this perspective.*
+
+Where identity files the perspective **under** what it is, description files things **under the perspective** — the topics it speaks to, the stances it holds, the qualities that make it what it is. Here your pId is the **parent** (the container), and each child is one facet of it.
+
+- `{parent: "ada lovelace", child: "0x595d…64E4"}` says *this perspective **is** ada lovelace* (identity).
+- `{parent: "0x595d…64E4", child: "the analytical engine"}` says *the analytical engine **is one of the things** this perspective is about* (description).
+
+Same pId, opposite roles: as a **child** it claims an identity; as a **parent** it gathers what characterizes it. (When the child of your pId is *itself another pId*, this same parent-side shape means something more specific — inheritance; see below.)
 
 ### Inheritance — "this perspective *inherits from* Y"
 
