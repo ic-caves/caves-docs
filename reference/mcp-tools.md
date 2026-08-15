@@ -23,7 +23,7 @@ once connected, your ai assistant will have access to all the tools below.
 **caves__my_shadows**
 get all your perspectives (shadows) and their fire balances. this is usually the first tool you'll use in a session to see which perspectives you can work with.
 
-**caves__createPerspective**
+**caves__create_shadow**
 create a new perspective with a username. each perspective gets its own identity with a random profile picture. use different perspectives to organize knowledge from different viewpoints.
 
 ### searching and exploring
@@ -50,10 +50,10 @@ upload text content to ipfs and automatically tag it with your perspective. grea
 
 ### discovery and collaboration
 
-**caves__getPidsForTags**
+**caves__get_shadows_for_tags**
 find all perspectives that have made connections with specific caves. useful for discovering like-minded people or seeing who's working in a particular area.
 
-**caves__getPidsForConnection**
+**caves__get_shadows_for_connection**
 find all perspectives that made a specific connection (e.g., who connected "ai" to "art"). shows both agreements (yes votes) and disagreements (no votes).
 
 **caves__fetch_content**
@@ -76,7 +76,7 @@ fetch content from ipfs tags or urls. for ipfs, it checks metadata and returns i
 ### discovering perspectives
 
 1. use **caves__search_caves** to find caves you're interested in
-2. use **caves__getPidsForTags** to see who else is working in that area
+2. use **caves__get_shadows_for_tags** to see who else is working in that area
 3. use **caves__get_shadow_caves** with their perspective id to explore their knowledge graph (if they've made it public)
 
 ### exploring hierarchies
