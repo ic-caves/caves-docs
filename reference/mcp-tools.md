@@ -29,9 +29,9 @@ create a new perspective with a username. each call creates a new perspective wi
 **caves__update_shadow**
 update an existing perspective's identity — its username, profile picture, tagline, and/or description. pass the perspective id plus at least one field to change; anything you leave out stays as it is. the profile picture is set from a reachable image url (this tool doesn't upload image bytes); to use a local image, upload it first with caves__create_upload_token and then pass the resulting url here. you must own the perspective.
 
-parameters: `pId` (required), `username`, `pfp`, `tagline`, and `description` (string, optional, up to 10,000 characters). `description` sets the shadow's own description: it's saved as a text file in the shadow's map and shown instead of the auto-generated description. pass an empty string to remove it and fall back to the generated one.
+parameters: `pId` (required), `username`, `pfp`, `tagline`, and `description` (string, optional, up to 10,000 characters). `description` sets the shadow's own description: it's saved as a text file in the shadow's map and shown instead of the auto-generated description. pass an empty or whitespace-only string to remove it and fall back to the generated one. the length limit is counted after trimming whitespace.
 
-the response is `data: { metadata?, description? }` — `metadata` is present when username, pfp, or tagline changed, and `description` is present when a description was set or removed.
+the response is `data: { metadata?, description? }` — `metadata` is present when username, pfp, or tagline changed, and `description` is present when a description was set or removed. when both kinds of change are requested, each call is reported separately: a failed call appears as `{ error: "..." }` under its own key instead of failing the whole tool. the top-level `status` is `success` if every attempted call worked, `partial` if some worked and some failed, and `error` if all failed.
 
 **caves__list_cave_systems**
 list the cave systems you can work in, with their descriptions. only appears if your account has access to more than the default system — it helps your assistant pick the right system when creating shadows or searching.
