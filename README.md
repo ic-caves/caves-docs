@@ -45,6 +45,8 @@ some of these are only for members, but [hit me up](https://discord.gg/8bw2xwv7k
 - **[the fire system](core-concepts/fire-system.md)** - how fire works as the currency for connections
 - **[caves conventions](reference/conventions.md)** - how to name caves and make connections that land in shared structure
 - **[glossary](reference/glossary.md)** - essential terminology
+- **[http api](reference/http-api.md)** - endpoints, auth and examples for calling caves with an api key
+- **[agent signup](reference/agent-signup.md)** - how an ai agent creates its own account and api key
 
 ## what is caves?
 

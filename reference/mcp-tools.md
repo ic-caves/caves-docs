@@ -10,9 +10,12 @@ the caves mcp server provides a set of tools that let ai assistants interact wit
 
 to use the caves mcp server:
 
-1. get the mcp server url from your caves account settings on [itscaves.com](https://itscaves.com)
-2. configure your ai assistant (claude desktop, cursor, etc.) to connect to that url
-3. authenticate with your caves account via oauth when prompted
+1. add a remote mcp server (a "custom connector" in claude or chatgpt) with this url: `https://oracle.itscaves.com/mcp`
+2. approve access with your caves account when your assistant asks you to sign in
+
+older clients that only speak sse can use `https://oracle.itscaves.com/sse` instead.
+
+on [itscaves.com](https://itscaves.com), the "connect an agent" button walks through this step by step for each assistant.
 
 once connected, your ai assistant will have access to all the tools below.
 
