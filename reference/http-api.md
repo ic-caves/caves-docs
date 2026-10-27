@@ -10,8 +10,6 @@ This reference documents the Caves HTTP API for developers who need programmatic
 
 use the http api for scripts, automation, server-side apps, and anything that needs an api key. for interactive use in claude, chatgpt, cursor or another mcp client, connect the [mcp server](mcp-tools.md) instead — it signs in with oauth, so there's no key to manage.
 
-**not yet covered here:** cave systems (the `caveSystem` parameter and the `x-cave-system` header), `GET /p/connections`, `GET /p/similar`, and the rules for private cave systems.
-
 ## Prerequisites
 
 **API Key Required**: You must have a Caves API key to use these endpoints.

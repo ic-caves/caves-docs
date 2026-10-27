@@ -79,7 +79,7 @@ find all perspectives that have made connections with one or more specified cave
 find all perspectives that made a specific connection (e.g. who connected "art" as a child of "ai"). shows who agrees (yes votes) or, if you ask, who disagrees (no votes).
 
 **caves__fetch_content**
-fetch content from ipfs, private cave-system files, or urls. for ipfs it checks the content type and returns the image or text; for private `/caves/` files it fetches through an authenticated request; for urls it extracts the text content and metadata. useful for working with content that's already referenced in caves.
+fetch content from ipfs or urls. for ipfs it checks the content type and returns the image or text; for urls it extracts the text content and metadata. useful for working with content that's already referenced in caves.
 
 ### capturing and account
 
